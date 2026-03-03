@@ -6,7 +6,6 @@ At the same time, I enjoy learning frontend development with React and Tailwind,
 
 This GitHub is where I upload both personal projects and educational projects. Some are experiments, others are required coursework, but all of them reflect what I am actively learning and building.
 
----
 
 ## 🛠 Tools & Tech
 
@@ -17,7 +16,6 @@ This GitHub is where I upload both personal projects and educational projects. S
 - Tailwind CSS  
 - Figma  
 
----
 
 ## A Bit About Me
 
