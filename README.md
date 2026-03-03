@@ -30,8 +30,8 @@ This GitHub is where I upload both personal projects and educational projects. S
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace0I0&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ace0I0&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace0I0&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ace0I0&layout=compact&hide_border=true&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ace0I0&theme=github-dark&hide_border=true)
