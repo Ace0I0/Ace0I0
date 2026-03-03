@@ -30,6 +30,7 @@ This GitHub is where I upload both personal projects and educational projects. S
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-fawn-five-11.vercel.app/api/top-langs/?username=Ace0I0&layout=compact&hide_border=true&theme=github_dark&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ace0I0&theme=github-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-fawn-five-11.vercel.app/api?username=Ace0I0&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=21600" height="170" />
+  <img src="https://github-readme-stats-fawn-five-11.vercel.app/api/top-langs/?username=Ace0I0&layout=compact&hide_border=true&theme=github_dark&cache_seconds=21600" height="170" />
+</p>
