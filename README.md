@@ -28,4 +28,10 @@ This GitHub is where I upload both personal projects and educational projects. S
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace0I0)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace0I0&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ace0I0&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ace0I0&theme=github-dark&hide_border=true)
